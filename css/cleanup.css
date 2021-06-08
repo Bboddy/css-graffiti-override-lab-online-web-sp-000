@@ -13,4 +13,6 @@
     -webkit-text-fill-color: transparent;
     animation: epicText 4s linear infinite;
     color: inherit;
+    text-align: center;
+    font-size: 15vw;
 }
